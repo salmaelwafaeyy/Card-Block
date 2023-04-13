@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Farah Elnahas</title>
+</head>
+<body>
+    <h1>Our Menu</h1>
+    <h2>Falafel</h2>
+    <p>chickpea, herbs and spices.</p>
+    <img src="flafel.JPG" alt="Falafel" width="240" height="135">
+    <h2>Pata Salad</h2>
+    <p>Lettuce, Vegetables and mozzarella.</p>
+    <img src="pasta.JPG" alt="Pasta" width="240" height="135" >
+    <table>
+        <tr>
+            <th>Dish</th>
+            <th>Price</th>
+        </tr>
+    <tr>
+        <td>Falafel</td>
+        <td>$10.00</td>
+    </tr>
+    <tr>
+        <td>Pasta Salad</td>
+        <td>$12.00</td>
+    </tr>
+    </table>
+</body>
+</html>
